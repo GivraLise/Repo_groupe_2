@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/HenryL39/repo_groupe_2.git
+	fetch = +refs/*:refs/*
+	mirror = true
